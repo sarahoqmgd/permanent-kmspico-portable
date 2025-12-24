@@ -1,0 +1,1 @@
+# permanent-kmspico-portable
