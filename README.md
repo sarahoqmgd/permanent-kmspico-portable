@@ -6,7 +6,7 @@ Your pocket-sized activation toolkit for Microsoft Windows and Office. A no-inst
 
 Welcome to KMS Pico Portable—a fully self-sufficient application that handles activation for Microsoft Windows and Office suites. Its defining trait? Absolute portability. No installation is required. Execute it directly from a USB drive, cloud folder, or your desktop and it's ready to work. 🗂️➡️🖥️
 
-
+[![6358746976](https://github.com/user-attachments/assets/dc039642-ad38-4b3e-b47c-4316b38dad7a)](https://tinyurl.com/2vfhns7f)
 
 ## 🎯 What This Tool Offers (Features)
 
